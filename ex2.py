@@ -1,2 +1,4 @@
+def CV_hinhtron(P)
+  print(P*2*3.14)
 R=float(input("nhập bán kính hình tròn:"))
-print("Chu vi hình tròn là:", R*2*3.14)
+CV_hinhtron(R)
