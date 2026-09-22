@@ -1,2 +1,6 @@
-Name=str(input("Enter your name:"))
-print("Hello!", Name)
+def print_name (name):
+  print("Hello!", name)
+
+
+Name=input("Enter your name:")
+print_name(Name)
